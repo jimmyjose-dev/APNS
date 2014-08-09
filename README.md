@@ -1,7 +1,7 @@
 PHP Sample code for APNS
 =====================
 
-Server's Push notification sample code for iOS devices in PHP
+PHP Sample code for iOS devices
 
 
 ----------
